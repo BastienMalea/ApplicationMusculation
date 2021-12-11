@@ -1,0 +1,14 @@
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\Management.deps.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\Management.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\Management.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\Application.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.csprojAssemblyReference.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.AssemblyInfoInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.AssemblyInfo.cs
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.csproj.CoreCompileInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.csproj.CopyComplete
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\obj\Debug\netstandard2.0\Management.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\PersistanceData.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Management\bin\Debug\netstandard2.0\PersistanceData.pdb

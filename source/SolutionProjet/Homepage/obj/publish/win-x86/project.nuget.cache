@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "+KKY8Qg9mIA8WWC6qJEhU3x897WLD6fo3pMIBmEaFaPn4aLOa2Dvxd6ijlaLB+LHAB/xFxmfzROkekjX4ZF2iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\43bas\\OneDrive\\Documents\\Visual Studio 2019\\Projet\\source\\SolutionProjet\\Homepage\\Homepage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\43bas\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\mahapps.metro\\2.4.4\\mahapps.metro.2.4.4.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\materialdesignthemes\\4.0.0\\materialdesignthemes.4.0.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.1\\system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\system.text.encodings.web\\4.7.1\\system.text.encodings.web.4.7.1.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.0.3\\microsoft.netcore.app.host.win-x86.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

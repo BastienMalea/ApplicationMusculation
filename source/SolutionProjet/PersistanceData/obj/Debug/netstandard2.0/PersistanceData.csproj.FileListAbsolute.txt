@@ -1,0 +1,12 @@
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\bin\Debug\netstandard2.0\PersistanceData.deps.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\bin\Debug\netstandard2.0\PersistanceData.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\bin\Debug\netstandard2.0\PersistanceData.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\bin\Debug\netstandard2.0\Application.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.csprojAssemblyReference.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.AssemblyInfoInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.AssemblyInfo.cs
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.csproj.CoreCompileInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.csproj.CopyComplete
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\PersistanceData\obj\Debug\netstandard2.0\PersistanceData.pdb

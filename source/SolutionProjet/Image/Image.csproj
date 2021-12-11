@@ -1,0 +1,101 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="img\icon\addicon.png" />
+    <None Remove="img\icon\deleteicon.png" />
+    <None Remove="img\icon\edit-icon.png" />
+    <None Remove="img\icon\editicon2.png" />
+    <None Remove="img\icon\icon.png" />
+    <None Remove="img\icon\icon_import_image.png" />
+    <None Remove="img\imgExercice\dips.png" />
+    <None Remove="img\imgExercice\exfentesavant.jpg" />
+    <None Remove="img\imgExercice\exgainage.jpg" />
+    <None Remove="img\imgExercice\exhiptrust.jpg" />
+    <None Remove="img\imgExercice\expompessur.jpg" />
+    <None Remove="img\imgExercice\exsquat.jpg" />
+    <None Remove="img\imgExercice\exsquatcote.jpg" />
+    <None Remove="img\imgExercice\exsuperman.jpg" />
+    <None Remove="img\imgExercice\exsuperman2.jpg" />
+    <None Remove="img\imgExercice\extractionaustra.jpg" />
+    <None Remove="img\imgfond\backgroundConnexion.jpg" />
+    <None Remove="img\imgfond\background_ciel.jpg" />
+    <None Remove="img\imgprogramme\progjambes.jpg" />
+    <None Remove="img\imgprogramme\progpull.jpg" />
+    <None Remove="img\imgprogramme\progpush.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\imgExercice\exfentesavant.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\exgainage.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\exhiptrust.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\expompessur.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\exsquat.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\exsquatcote.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\exsuperman.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\exsuperman2.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\extractionaustra.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgprogramme\progjambes.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="img\icon\addicon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon\deleteicon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon\edit-icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon\editicon2.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon\icon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\icon\icon_import_image.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgExercice\dips.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgfond\backgroundConnexion.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgfond\background_ciel.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgprogramme\progpull.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="img\imgprogramme\progpush.jpg">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

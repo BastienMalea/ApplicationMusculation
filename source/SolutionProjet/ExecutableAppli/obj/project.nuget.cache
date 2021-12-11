@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ci7YAiOhp89Dx8pdfyw+L/tAli4HPQJxQZbp78tiYV8JNil7fr3+gwzZxdMUEcrL99NB1vRgriv3gTJfF8HhNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\43bas\\OneDrive\\Documents\\Visual Studio 2019\\Projet\\source\\SolutionProjet\\ExecutableAppli\\ExecutableAppli.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

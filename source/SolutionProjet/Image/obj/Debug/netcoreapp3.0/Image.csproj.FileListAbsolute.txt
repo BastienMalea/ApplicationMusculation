@@ -1,0 +1,14 @@
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\bin\Debug\netcoreapp3.0\Image.deps.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\bin\Debug\netcoreapp3.0\Image.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\bin\Debug\netcoreapp3.0\Image.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\GeneratedInternalTypeHelper.g.cs
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image_MarkupCompile.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image_MarkupCompile.lref
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Themes\Generic.baml
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.g.resources
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.AssemblyInfoInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.AssemblyInfo.cs
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.csproj.CoreCompileInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Image\obj\Debug\netcoreapp3.0\Image.csprojAssemblyReference.cache

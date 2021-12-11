@@ -1,0 +1,17 @@
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Test_Programme.deps.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Test_Programme.runtimeconfig.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Test_Programme.runtimeconfig.dev.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Test_Programme.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Test_Programme.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Application.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\Application.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.csprojAssemblyReference.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.AssemblyInfoInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.AssemblyInfo.cs
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.csproj.CoreCompileInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.csproj.CopyComplete
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\obj\Debug\netcoreapp2.1\Test_Programme.genruntimeconfig.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\PersistanceData.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Test_Programme\bin\Debug\netcoreapp2.1\PersistanceData.pdb

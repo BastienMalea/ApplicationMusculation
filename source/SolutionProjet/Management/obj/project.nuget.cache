@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NJWQL76FB7JzlD+caxfm53tz+bKws0jrXmRc/3zOlvQ+xCWaWh729wd6jGDnhlMOXJLOF6XdiPJCHj6c/q6JXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\43bas\\OneDrive\\Documents\\Visual Studio 2019\\Projet\\source\\SolutionProjet\\Management\\Management.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

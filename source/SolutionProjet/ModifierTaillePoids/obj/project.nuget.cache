@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "iCorPtY7fs7pzt20YTo/nI/mBR3iuHv2ooHa8sbbPS7/8z1xqmKy2ouFdG4HEyhYABZ9COE47m78q3RYYUtiaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\43bas\\OneDrive\\Documents\\Visual Studio 2019\\Projet\\source\\SolutionProjet\\ModifierTaillePoids\\ModifierTaillePoids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

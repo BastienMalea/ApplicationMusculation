@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ActiveDebugProfile>Homepage</ActiveDebugProfile>
+    <_LastSelectedProfileId>C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="AjouterExercice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="AjouterProgramme.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="buttonusercontrol\buttonUCApercu.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ExerciceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ModifWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucadmin\AdminProfilUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucadmin\ExercicePageUCAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucconnexion\ucConnexion.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucconnexion\ucInscription.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucmodification\UCModifCorpulence.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucmodification\UCModifProg.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="uctextblock\defaulttextblockuc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="uctextblock\textblocajoutprogramme.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucuser\UserProfilUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucuser\UserProgrammeUC.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucWindowAjout\UCExercice.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ucWindowAjout\UCProgramme.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowMainAdmin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AjouterExercice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="AjouterProgramme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="buttonusercontrol\buttonUCApercu.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ExerciceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ModifWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucadmin\AdminProfilUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucadmin\ExercicePageUCAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucconnexion\ucConnexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucconnexion\ucInscription.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucmodification\UCModifCorpulence.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucmodification\UCModifProg.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="uctextblock\defaulttextblockuc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="uctextblock\textblocajoutprogramme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucuser\UserProfilUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucuser\UserProgrammeUC.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucWindowAjout\UCExercice.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ucWindowAjout\UCProgramme.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowConnexion.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowMainAdmin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

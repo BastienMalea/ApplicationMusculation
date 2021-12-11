@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l036oZd2E0oRR4zDh8RoNqiFglA7UxMwgR0GoQFbTJ/VxlRX965+EVGA8c5gNlcZ5qQ7DNGUmM4O5ZxxbV4kmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\43bas\\OneDrive\\Documents\\Visual Studio 2019\\Projet\\source\\SolutionProjet\\ConnexionWindow\\ConnexionWindow.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\43bas\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,43 @@
+﻿<UserControl x:Class="Homepage.ucconnexion.ucConnexion"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Homepage.ucconnexion"
+             mc:Ignorable="d" 
+             d:DesignHeight="490" d:DesignWidth="400">
+    <UserControl.Resources>
+        <Style x:Key="Flat">
+            <Setter Property="Control.Background" Value="{x:Null}" />
+            <Setter Property="Control.BorderBrush" Value="{x:Null}" />
+            <Style.Triggers>
+                <Trigger Property="Control.IsMouseOver" Value="True">
+                    <Setter Property="Control.Background" Value="{x:Null}" />
+                    <Setter Property="Control.BorderBrush" Value="{x:Null}" />
+                    <Setter Property="TextBlock.TextDecorations" Value="Underline"/>
+                </Trigger>
+                
+            </Style.Triggers>
+        </Style>
+    </UserControl.Resources>
+    <StackPanel Background="White">
+        <WrapPanel HorizontalAlignment="Center" Margin="0,100,0,20">
+                <TextBlock Text="IDENTIFIANT :" Foreground="CornflowerBlue" FontSize="15" VerticalAlignment="Center"/>
+            <TextBox TextWrapping="NoWrap" Width="250" Height="20"  Margin="17,0,0,0" Style="{DynamicResource TextBoxAnimated}"  Foreground="CornflowerBlue" x:Name="idTextBlock"/>
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Center" Margin="0,50,0,20">
+                <TextBlock Text="MOT DE PASSE : " Foreground="CornflowerBlue" FontSize="15" VerticalAlignment="Center"/>
+            <PasswordBox  Width="250" Height="20" Style="{DynamicResource PassBoxAnimated}" Foreground="CornflowerBlue"  x:Name="mdpTextBox"/>
+
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Center" Margin="0,50,0,0">
+            <Button x:Name="ConnexionButton" Click="ConnexionButton_Click" Content="CONNEXION" FontSize="15" Style="{DynamicResource ButtonStyle1}" BorderBrush="CornflowerBlue" BorderThickness="1" MouseEnter="ConnexionButton_MouseEnter" MouseLeave="ConnexionButton_MouseLeave"/>
+ 
+            </WrapPanel>
+        <WrapPanel HorizontalAlignment="Center" Margin="0,30,0,0">
+            <Button  x:Name="InscriptionButton" Content="Première connexion ?" FontSize="11" FontStyle="Italic" Foreground="DarkGray"  Style="{DynamicResource Flat}" Click="InscriptionButton_Click"/>
+        </WrapPanel>
+               
+        </StackPanel>
+    
+</UserControl>

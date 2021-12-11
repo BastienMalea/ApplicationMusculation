@@ -1,0 +1,9 @@
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\bin\Debug\netstandard2.0\Application.deps.json
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\bin\Debug\netstandard2.0\Application.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\bin\Debug\netstandard2.0\Application.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\obj\Debug\netstandard2.0\Application.AssemblyInfoInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\obj\Debug\netstandard2.0\Application.AssemblyInfo.cs
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\obj\Debug\netstandard2.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\obj\Debug\netstandard2.0\Application.dll
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\obj\Debug\netstandard2.0\Application.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\TestBibli\obj\Debug\netstandard2.0\Application.csprojAssemblyReference.cache

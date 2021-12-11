@@ -1,0 +1,6 @@
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\bin\Release\netcoreapp3.0\publish\Homepage.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\bin\Release\netcoreapp3.0\publish\Image.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\bin\Release\netcoreapp3.0\publish\Management.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\bin\Release\netcoreapp3.0\publish\PersistanceData.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\bin\Release\netcoreapp3.0\publish\Application.pdb
+C:\Users\43bas\OneDrive\Documents\Visual Studio 2019\Projet\source\SolutionProjet\Homepage\bin\Release\netcoreapp3.0\publish\Homepage.exe
